@@ -1,0 +1,6 @@
+.idea/
+venv/
+.migration/
+.migrations/
+/__pycache__/
+cgi-bin/__pycache__/_wall.cpython-37.pyc
